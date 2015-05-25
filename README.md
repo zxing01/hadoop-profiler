@@ -1,8 +1,8 @@
 ### Software Installation
 
-1. Install Java JDK and set `JAVA_HOME` environment variable accordingly.
+1.Install Java JDK and set `JAVA_HOME` environment variable accordingly.
 
-2. Install Maven with:
+2.Install Maven with:
 ```
 sudo apt-get update
 sudo apt-get install maven
